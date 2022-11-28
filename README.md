@@ -11,8 +11,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-_Head of School (Senior Management), – Public Services, Science and Computing (Aug 2018 – Dec 2022)_
-**West Herts College**
+**West Herts College** (Aug 2018 - Dec 2022)  
+_Head of School (Senior Management) - School of Public Services, Science and Computing_
 
 Responsibilities:
 * Lead, manage and direct the staff of the school (c. 50 staff) to ensure high standards of performance within the school (c.
@@ -26,55 +26,46 @@ employers and the community. Create data oriented strategic area reviews, target
 learning opportunities for students (FE, HE, Part Time Adult, Apprenticeship)
 * Interview, evaluate and successfully integrate new members of staff across all areas of the school
 
-Teaching &amp; Learning Leader/Senior Practitioner (Sep 2016 – July 2018)
-School of Performance Music and Media, School of Engineering
-West Herts College
-Watford/Kings Langley
+**West Herts College** (Sep 2016 - Dec 2018)  
+_Teaching and Learning Leader/Senior Practitioner - School of Performance Music and Media, School of Engineering_
+
 Responsibilities:
- Drive outstanding teaching and learning practices cross college (further and higher education)
- Manage and mentor new members of staff
- Create and monitor Quality Improvement Plans, formulating bespoke training and measuring impact
- Deliver staff training and messages from the Quality Department
- Assisting senior management with day to day running of departments and hitting of KPIs
- Maintain personal outstanding teaching and uphold consistent best practice
- Driving e-learning practices
-Course Leader and Lecturer (Music Practice &amp; Music Technology) (Sep 2014 – July 2018)
-West Herts College
-Watford
+* Drive outstanding teaching and learning practices cross college (further and higher education)
+* Manage and mentor new members of staff
+* Create and monitor Quality Improvement Plans, formulating bespoke training and measuring impact
+* Deliver staff training and messages from the Quality Department
+* Assisting senior management with day to day running of departments and hitting of KPIs
+* Maintain personal outstanding teaching and uphold consistent best practice
+* Driving e-learning practices
+
+**West Herts College** (Sep 2014 - Dec 2018)  
+_Course leader and Lecturer - School of Performance Music and Media_
+
 Responsibilities:
- Teaching sound creation, sequencing, sound for the moving image, solo music performance, band units and more
- Responsible for the planning and running of a two year Level 3 BTEC course
- Tracking student progress, achievement and attainment
- Managing tutors teaching on the course
- Organising guest speakers, trips and performances
- Teaching music across levels (Level 2 through to Degree)
+* Teaching sound creation, sequencing, sound for the moving image, solo music performance, band units and more
+* Responsible for the planning and running of a two year Level 3 BTEC course
+* Tracking student progress, achievement and attainment
+* Managing tutors teaching on the course
+* Organising guest speakers, trips and performances
+* Teaching music across levels (Level 2 through to Degree)
+* Marking working
+* Creating online e-learning materials
+* Managing parent expectations
+* Running open days and audition events
+* Adhering to BTEC assessment and internal verification framework
+* Maintaining course standards while also conducting Teaching &amp; Learning Leader role alongside
+* Heavy use of IT systems, including all office applications and also specialised “ProSolution/ProMonitor” tracking systems
 
- Marking working
- Creating online e-learning materials
- Managing parent expectations
- Running open days and audition events
- Adhering to BTEC assessment and internal verification framework
- Maintaining course standards while also conducting Teaching &amp; Learning Leader role alongside
- Heavy use of IT systems, including all office applications and also specialised “ProSolution/ProMonitor” tracking systems
+**West Herts College** (Sep 2016 – Aug 2017)  
+_Maths Lecturer - West Herts College_
 
-Additional Role: Maths Lecturer (Sep 2016 – Aug 2017)
-West Herts College
-Watford
 Responsibilities:
- Teaching functional skills maths to learners who failed to achieve C or above at GCSE before attending college
- Planning resources and lessons around NCFE framework
- Differentiating experience depending on level
- Tracking and monitoring individual student progress towards achieving a functional skills qualification
+* Teaching functional skills maths to learners who failed to achieve C or above at GCSE before attending college
+* Planning resources and lessons around NCFE framework
+* Differentiating experience depending on level
+* Tracking and monitoring individual student progress towards achieving a functional skills qualification
 
-**Company Name** (start-date to end-date)  
-_Your job title_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
