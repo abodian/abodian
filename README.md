@@ -1,6 +1,6 @@
 ## Alex Bodian
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Ex Further Education senior manager and trained musician. Currently training to be a Junior Full Stack Developer at the highly selective and intensive 16 week bootcamp at Makers Academy, London. Looking to combine my management experience, creativity and problem solving skills in an exciting and challenging development environment.
 
 ## Projects
 
@@ -45,16 +45,13 @@ Responsibilities:
 * Teaching sound creation, sequencing, sound for the moving image, solo music performance, band units and more
 * Responsible for the planning and running of a two year Level 3 BTEC course
 * Tracking student progress, achievement and attainment
-* Managing tutors teaching on the course
+* Tutor management
 * Organising guest speakers, trips and performances
 * Teaching music across levels (Level 2 through to Degree)
 * Marking working
 * Creating online e-learning materials
-* Managing parent expectations
-* Running open days and audition events
 * Adhering to BTEC assessment and internal verification framework
-* Maintaining course standards while also conducting Teaching &amp; Learning Leader role alongside
-* Heavy use of IT systems, including all office applications and also specialised “ProSolution/ProMonitor” tracking systems
+
 
 **West Herts College** (Sep 2016 – Aug 2017)  
 _Maths Lecturer - West Herts College_
@@ -64,7 +61,6 @@ Responsibilities:
 * Planning resources and lessons around NCFE framework
 * Differentiating experience depending on level
 * Tracking and monitoring individual student progress towards achieving a functional skills qualification
-
 
 
 ## Skills
