@@ -95,11 +95,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 #### Makers Academy (Nov 2022 to March 2023)
-- Highly selective 16 week intensive coding bootcamp.
-- Pair Programming in order to problem solve effeciently-  
+- Highly selective 16 week intensive coding bootcamp
+- Pair Programming in order to problem solve effeciently  
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, JQuery
 - RSpec, Jasmine
 
 #### Institute of Contemporary Music Performance (Sep 2011 to May 2014)
