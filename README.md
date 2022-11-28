@@ -1,4 +1,4 @@
-## Alex Bodian
+# Alex Bodian
 
 Former Further Education senior manager and trained musician. Currently studying to be a Junior Full Stack Developer at the highly selective and intensive 16 week bootcamp at Makers Academy, London. Looking to combine my management experience, creativity and problem solving skills in an exciting and challenging development environment.
 
@@ -106,15 +106,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 * BMUS (Hons) 1st Class, Music
 
 #### Institute of Leadership & Management (Sep 2016 - May 2017)
-Level 5 Diploma in Leadership and Management
+* Level 5 Diploma in Leadership and Management
 
 #### City & Guilds (Sep 2015 - June 2016)
-Level 5 Diploma - Teaching in the Lifelong Learning Sector
+* Level 5 Diploma - Teaching in the Lifelong Learning Sector
 
 #### Stowe School (Sep 2005 - June 2010)
-A2-Levels: Chemistry B, Biology B, Music B
-GCSEs: 4A*, 4A, 2B
+* A2-Levels: Chemistry B, Biology B, Music B
+* GCSEs: 4A*, 4A, 2B
 
 ## Hobbies
 
-Musician (drums and keys), video gamer, parent, conversationalist, Polynesian nose flue admirer, part time gym-goer..... 
+* Musician (drums and keys), video gamer, parent, conversationalist, Polynesian nose flue admirer, part time gym-goer..... 
