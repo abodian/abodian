@@ -1,6 +1,6 @@
 ## Alex Bodian
 
-Ex Further Education senior manager and trained musician. Currently training to be a Junior Full Stack Developer at the highly selective and intensive 16 week bootcamp at Makers Academy, London. Looking to combine my management experience, creativity and problem solving skills in an exciting and challenging development environment.
+Former Further Education senior manager and trained musician. Currently studying to be a Junior Full Stack Developer at the highly selective and intensive 16 week bootcamp at Makers Academy, London. Looking to combine my management experience, creativity and problem solving skills in an exciting and challenging development environment.
 
 ## Projects
 
@@ -62,7 +62,6 @@ Responsibilities:
 * Differentiating experience depending on level
 * Tracking and monitoring individual student progress towards achieving a functional skills qualification
 
-
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
@@ -95,25 +94,27 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+#### Makers Academy (Nov 2022 to March 2023)
+- Highly selective 16 week intensive coding bootcamp.
+- Pair Programming in order to problem solve effeciently-  
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Institute of Contemporary Music Performance (Sep 2011 to May 2014)
+* BMUS (Hons) 1st Class, Music
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Institute of Leadership & Management (Sep 2016 - May 2017)
+Level 5 Diploma in Leadership and Management
 
-#### Any other qualifications
+#### City & Guilds (Sep 2015 - June 2016)
+Level 5 Diploma - Teaching in the Lifelong Learning Sector
 
-That in some arguable way make you a better software developer or well-rounded person
+#### Stowe School (Sep 2005 - June 2010)
+A2-Levels: Chemistry B, Biology B, Music B
+GCSEs: 4A*, 4A, 2B
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Musician (drums and keys), video gamer, parent, conversationalist, Polynesian nose flue admirer, part time gym-goer..... 
