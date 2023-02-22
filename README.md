@@ -1,4 +1,4 @@
-# <div align="center">Alex Bodian</div>
+# <div align="center">[![result80e3818351619515.gif](https://s9.gifyu.com/images/result80e3818351619515.gif)](https://gifyu.com/image/Sqep3)</div>
 
 # 💫 About Me:
 Former Further Education senior manager and trained musician. Currently studying to be a Junior Full Stack Developer at the highly selective and intensive 16 week bootcamp at Makers Academy, London. Looking to combine my management experience, creativity and problem solving skills in an exciting and challenging development environment. Please take a look around my Github to see what I have/am learning as well as my attention to detail and TDD processes.
