@@ -1,6 +1,6 @@
 # <div align="center">Alex Bodian</div>
 
-# 💫 About Me:
+## 💫 About Me:
 Former Further Education senior manager and trained musician. Currently studying to be a Junior Full Stack Developer at the highly selective and intensive 16 week bootcamp at Makers Academy, London. Looking to combine my management experience, creativity and problem solving skills in an exciting and challenging development environment. Please take a look around my Github to see what I have/am learning as well as my attention to detail and TDD processes.
 
 ## 🌐 Socials:
@@ -15,6 +15,7 @@ Former Further Education senior manager and trained musician. Currently studying
 | **Acebook**                  | A clone of FB                | MongoDB, React, Node.js, Express, Cypress, Jest  |
 | **MakersBNB**                | A simple room rental web app | Ruby, Sinatra, Rspec                             |
 | **Tech Tests**               | Code quality tech tests      | Various                                          |
+
 ## Work Experience
 
 Head of School (Senior Management), – Public Services, Science and Computing (Aug 2018 – December 2022)
@@ -72,7 +73,7 @@ Responsibilities:
 </div>
 
 
-# Education
+## Education
 
 #### Makers Academy (Nov 2022 to March 2023)
 - Highly selective 16 week intensive coding bootcamp
@@ -100,7 +101,7 @@ Responsibilities:
 * Musician (drums and keys), video gamer, parent, conversationalist, part-time gym goer...
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=abodian&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abodian&theme=dark&hide_border=false)<br/>
