@@ -7,7 +7,7 @@ Former Further Education senior manager and trained musician. Currently studying
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-bodian-54814593) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ajnbodian) 
 
 
-## Projects
+## 🚧 Projects
 
 | Name                         | Description                  | Tech/tools                                       |
 | ---------------------------- | ---------------------------- | ------------------------------------------------ |
@@ -16,7 +16,7 @@ Former Further Education senior manager and trained musician. Currently studying
 | **MakersBNB**                | A simple room rental web app | Ruby, Sinatra, Rspec                             |
 | **Tech Tests**               | Code quality tech tests      | Various                                          |
 
-## Work Experience
+## 💼 Work Experience
 
 Head of School (Senior Management), – Public Services, Science and Computing (Aug 2018 – December 2022)
 West Herts College, Watford
@@ -46,7 +46,7 @@ Responsibilities:
 - Responsible for the planning and running of a two year Level 3 BTEC course
 - Tracking student progress, achievement and attainment
 
-## Skills & Technologies
+## 🌐👨🏻‍💻 Skills & Technologies
 
 <div align="center">
 	<code> Git <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
@@ -73,7 +73,7 @@ Responsibilities:
 </div>
 
 
-## Education
+## 📚 Education
 
 #### Makers Academy (Nov 2022 to March 2023)
 - Highly selective 16 week intensive coding bootcamp
@@ -96,7 +96,7 @@ Responsibilities:
 * A2-Levels: Chemistry B, Biology B, Music B
 * GCSEs: 4A*, 4A, 2B
 
-# Hobbies
+## 🎮 Hobbies
 
 * Musician (drums and keys), video gamer, parent, conversationalist, part-time gym goer...
 
