@@ -8,7 +8,7 @@ Former Further Education senior manager and trained musician. Currently studying
 
 
 ## Projects
-<div align="center"> 
+
 | Name                         | Description                  | Tech/tools                                       |
 | ---------------------------- | ---------------------------- | ------------------------------------------------ |
 | **Final project**            | TBC                          | TBC                                              |
@@ -16,7 +16,7 @@ Former Further Education senior manager and trained musician. Currently studying
 | **MakersBNB**                | A simple room rental web app | Ruby, Sinatra, Rspec                             |
 | **Tech Tests**               | Code quality tech tests      | Various                                          |
 ## Work Experience
-</div>
+
 Head of School (Senior Management), – Public Services, Science and Computing (Aug 2018 – December 2022)
 West Herts College, Watford
 Responsibilities:
@@ -101,17 +101,17 @@ Responsibilities:
 
 
 # 📊 GitHub Stats:
-<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=abodian&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abodian&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abodian&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+
 
 ## 🏆 GitHub Trophies - bit of fun!
-<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=abodian&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-</div>
+
 ---
-<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=abodian&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
+
