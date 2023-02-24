@@ -81,8 +81,9 @@ Responsibilities:
 - Pair Programming in order to problem solve effeciently  
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript, JQuery
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, React, Node.js
+- RSpec, Jest, Cypress
+- PostgreSQL, MongoDB
 
 #### Institute of Contemporary Music Performance (Sep 2011 to May 2014)
 * BMUS (Hons) 1st Class, Music
