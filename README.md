@@ -15,7 +15,7 @@ Former Further Education senior manager and trained musician. Currently studying
 | Name                         | Description                  | Tech/tools                                       |
 | ---------------------------- | ---------------------------- | ------------------------------------------------ |
 | **Final project**            | TBC                          | TBC                                              |
-| **Acebook**                  | A clone of FB                | MongoDB, React, Node.js, Express, Cypress, Jest  |
+| **Acebook**                  | A social media type learning project      | MongoDB, React, Node.js, Express, Cypress, Jest  |
 | **MakersBNB**                | A simple room rental web app | Ruby, Sinatra, Rspec                             |
 | **Tech Tests**               | Code quality tech tests      | Various                                          |
 
