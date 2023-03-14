@@ -12,12 +12,13 @@ Former Further Education senior manager and trained musician. Currently studying
 
 ## 🚧 Projects
 
-| Name                         | Description                  | Tech/tools                                       |
+| Name                         | Description                  | Tech/tools                                       | Github Link 
 | ---------------------------- | ---------------------------- | ------------------------------------------------ |
 | **Tube Tracks**              | Data Sonification of Live Tfl Tube Arrival Data | Javascript, React, Tone.js, Express, Cypress, Jest, REST |
 | **Acebook**                  | A social media type learning project      | MongoDB, React, Node.js, Express, Cypress, Jest  |
 | **MakersBNB**                | A simple room rental web app | Ruby, Sinatra, Rspec                             |
 | **Tech Tests**               | Code quality tech tests      | Various                                          |
+| **AlBo Dictionary!**         | Dictionary & Thesaurus       | React, JS, Bootstrap, Node.js                    |
 
 ## 💼 Work Experience
 
