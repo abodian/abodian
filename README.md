@@ -12,7 +12,7 @@ Former Further Education senior manager and trained musician. Currently studying
 
 ## 🚧 Projects
 
-| Name                         | Description                  | Tech/tools                                       | Github Link 
+| Name                         | Description                  | Tech/tools                                       |
 | ---------------------------- | ---------------------------- | ------------------------------------------------ |
 | **Tube Tracks**              | Data Sonification of Live Tfl Tube Arrival Data | Javascript, React, Tone.js, Express, Cypress, Jest, REST |
 | **Acebook**                  | A social media type learning project      | MongoDB, React, Node.js, Express, Cypress, Jest  |
