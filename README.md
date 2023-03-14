@@ -15,10 +15,10 @@ Former Further Education senior manager and trained musician. Currently studying
 | Name                         | Description                  | Tech/tools                                       |
 | ---------------------------- | ---------------------------- | ------------------------------------------------ |
 | [Tube Tracks](https://github.com/abodian/tube-tracks)              | Data Sonification of Live Tfl Tube Arrival Data | Javascript, React, Tone.js, Express, Cypress, Jest, REST |
-| **Acebook**                  | A social media type learning project      | MongoDB, React, Node.js, Express, Cypress, Jest  |
-| **MakersBNB**                | A simple room rental web app | Ruby, Sinatra, Rspec                             |
+| [Acebook](https://github.com/abodian/acebook-team-water)                  | A social media type learning project      | MongoDB, React, Node.js, Express, Cypress, Jest  |
+| [MakersBNB](https://github.com/abodian/makersbnb-ruby-seed)                | A simple room rental web app | Ruby, Sinatra, Rspec                             |
 | **Tech Tests**               | Code quality tech tests      | Various                                          |
-| **AlBo Dictionary!**         | Dictionary & Thesaurus       | React, JS, Bootstrap, Node.js                    |
+| [AlBo Dictionary!](https://github.com/abodian/dictionary-bootstrap)         | Dictionary & Thesaurus       | React, JS, Bootstrap, Node.js                    |
 
 ## 💼 Work Experience
 
