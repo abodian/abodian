@@ -4,7 +4,12 @@
 
 
 ## 💫 About Me:
-Former Further Education senior manager and trained musician. Currently studying to be a Junior Full Stack Developer at the highly selective and intensive 16 week bootcamp at Makers Academy, London. Looking to combine my management experience, creativity and problem solving skills in an exciting and challenging development environment. Please take a look around my Github to see what I have/am learning as well as a little bit about me. Thank you for taking the time to visit my page.
+A proactive, dynamic, communicative Full Stack Software Developer with a love of performing and writing music, reading, food, travel and helping others to realise their potential.
+
+Previously in my career I was a qualified musician and teacher, subsequently moving into a further education senior manager role. I was drawn towards software development due to its potential to be applied in all manners of industry and life, offering varied and exciting opportunities.
+
+Having graduated from the highly selective and intensive 16 week bootcamp at Makers Academy, London. I am looking to combine my leadership and management experience, creativity and problem solving skills in an exciting and challenging development environment. Enjoying every facet of the tech industry since making my change, coding and development has brought the best out of me, coupling my career experience with the opportunities to create new and exciting websites, apps and programs. Seeing an idea from planning to completion brings a sense of accomplishment and joy that I hope to achieve in a positively cultured organisation. 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-bodian-54814593) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ajnbodian) 
