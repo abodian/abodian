@@ -24,6 +24,7 @@ Having graduated from the highly selective and intensive 16 week bootcamp at Mak
 | [MakersBNB](https://github.com/abodian/makersbnb-ruby-seed)                | A simple room rental web app | Ruby, Sinatra, Rspec                             |
 | **Tech Tests**               | Code quality tech tests      | Various                                          |
 | [AlBo Dictionary!](https://github.com/abodian/dictionary-bootstrap)         | Dictionary & Thesaurus       | React, JS, Bootstrap, Node.js                    |
+| [IP GeoLocator!](https://github.com/abodian/ip-address-tracker))         | IP Address GeoLocator       | React, JS, Bootstrap, Node.js, Leaflet.js                    |
 
 ## 💼 Work Experience
 
