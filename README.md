@@ -29,22 +29,22 @@ Having graduated from the highly selective and intensive 16 week bootcamp at Mak
 ## 💼 Work Experience
 
 Head of School (Senior Management), – Public Services, Science and Computing - (Aug 2018 – December 2022) West Herts College, Watford
-• Lead, manage, and direct school staff (~50) to ensure high performance standards for learners (~950)
-• Develop school in line with college policy and strategic plans, addressing learner, employer, and community needs through
+* Lead, manage, and direct school staff (~50) to ensure high performance standards for learners (~950)
+* Develop school in line with college policy and strategic plans, addressing learner, employer, and community needs through
 strategic reviews and manage school budget allocation
-• Liaise with stakeholders and management at all levels, showing strong communication and negotiation skills
-• Manage resources within Uni of Hertfordshire College Consortium
-• Develop teaching strategies for quality, active learning opportunities (FE, HE, Adult, Apprenticeship)
-• Evaluate and integrate new staff across all areas of the school.
+* Liaise with stakeholders and management at all levels, showing strong communication and negotiation skills
+* Manage resources within Uni of Hertfordshire College Consortium
+* Develop teaching strategies for quality, active learning opportunities (FE, HE, Adult, Apprenticeship)
+* Evaluate and integrate new staff across all areas of the school.
 
 Teaching & Learning Leader/Senior Practitioner - (Sep 2016 – July 2018) - West Herts College
-• Drive outstanding teaching and learning practices cross college (further and higher education)
-• Manage and mentor new members of staff
-• Create and monitor Quality Improvement Plans, formulating bespoke training and measuring impact Course Leader and Lecturer (Music Practice & Music 
+* Drive outstanding teaching and learning practices cross college (further and higher education)
+* Manage and mentor new members of staff
+* Create and monitor Quality Improvement Plans, formulating bespoke training and measuring impact Course Leader and Lecturer (Music Practice & Music 
 Technology) (Sep 2014 – July 2018) - West Herts College
-• Teaching sound creation, sequencing, sound for the moving image, solo music performance, band units and more
-• Responsible for the planning and running of a two year Level 3 BTEC course
-• Tracking student progress, achievement and attainment
+* Teaching sound creation, sequencing, sound for the moving image, solo music performance, band units and more
+* Responsible for the planning and running of a two year Level 3 BTEC course
+* Tracking student progress, achievement and attainment
 
 ## 🌐👨🏻‍💻 Skills & Technologies
 
@@ -76,20 +76,20 @@ Technology) (Sep 2014 – July 2018) - West Herts College
 ## 📚 Education
 
 #### Makers Academy (Nov 2022 to March 2023)
-• Developed understanding of core programming concepts with a focus on OOP
-• Combined previous management experience with agile processes which was integral to effective communication throughout
+* Developed understanding of core programming concepts with a focus on OOP
+* Combined previous management experience with agile processes which was integral to effective communication throughout
 all projects
-• Planned and developed projects using multiple tech stacks such as MERN and Ruby on Rails
-• Developed understanding of SQL and NoSQL databases
-• Consistently strived to adhere to test driven development practices
-• Able to write meaningful tests (behaviour vs state)
-• Understood a consistent debugging process to resolve issues, enhancing my problem solving skills
-• Deployed web applications using light cloud services
-• Built on existing communication skills to effectively pair program and contribute to group projects
-• Took an active leadership role, leading retros for cohort as well as standups for group project work
-• Used previous mentoring and teaching skills to voluntarily assist other learners in their studies
-• Used branch/PR/merge git workflow and code reviews
-• Built web applications fetching and updating remote data using JS, with and without React
+* Planned and developed projects using multiple tech stacks such as MERN and Ruby on Rails
+* Developed understanding of SQL and NoSQL databases
+* Consistently strived to adhere to test driven development practices
+* Able to write meaningful tests (behaviour vs state)
+* Understood a consistent debugging process to resolve issues, enhancing my problem solving skills
+* Deployed web applications using light cloud services
+* Built on existing communication skills to effectively pair program and contribute to group projects
+* Took an active leadership role, leading retros for cohort as well as standups for group project work
+* Used previous mentoring and teaching skills to voluntarily assist other learners in their studies
+* Used branch/PR/merge git workflow and code reviews
+* Built web applications fetching and updating remote data using JS, with and without React
 
 #### Institute of Contemporary Music Performance (Sep 2011 to May 2014)
 * BMUS (Hons) 1st Class, Music
