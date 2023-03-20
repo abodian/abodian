@@ -1,4 +1,4 @@
-![Banner](https://imgbox.com/Hv13rmjz)
+![Banner](https://imgbox.com/Hv13rmjz](https://images2.imgbox.com/4e/1b/Hv13rmjz_o.png)
 
 
 ## 💫 About Me:
