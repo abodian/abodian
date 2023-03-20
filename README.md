@@ -1,5 +1,4 @@
-
-  [![banner.png](https://i.postimg.cc/YSBDdHXh/banner.png)](https://postimg.cc/WdS74Qcv)
+![Banner](https://imgbox.com/Hv13rmjz)
 
 
 
