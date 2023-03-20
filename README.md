@@ -1,7 +1,6 @@
 ![Banner](https://imgbox.com/Hv13rmjz)
 
 
-
 ## 💫 About Me:
 A proactive, dynamic, communicative Full Stack Software Developer with a love of performing and writing music, reading, food, travel and helping others to realise their potential.
 
