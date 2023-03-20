@@ -1,4 +1,4 @@
-[![Hhz19Wl.md.png](https://iili.io/Hhz19Wl.md.png)](https://freeimage.host/i/Hhz19Wl)
+<img src="https://iili.io/Hhz19Wl.png" alt="image" style="height: 100%; width: 100%;">
 
 
 ## 💫 About Me:
