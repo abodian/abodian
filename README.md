@@ -6,7 +6,7 @@ A proactive, dynamic, communicative Full Stack Software Developer with a love of
 
 Previously in my career I was a qualified musician and teacher, subsequently moving into a further education senior manager role. I was drawn towards software development due to its potential to be applied in all manners of industry and life, offering varied and exciting opportunities.
 
-Having graduated from the highly selective and intensive 16 week bootcamp at Makers Academy, London. I am looking to combine my leadership and management experience, creativity and problem solving skills in an exciting and challenging development environment. Enjoying every facet of the tech industry since making my change, coding and development has brought the best out of me, coupling my career experience with the opportunities to create new and exciting websites, apps and programs. Seeing an idea from planning to completion brings a sense of accomplishment and joy that I hope to achieve in a positively cultured organisation. 
+Having graduated from the highly selective and intensive bootcamp at Makers Academy, London. I am looking to combine my leadership and management experience, creativity and problem solving skills in an exciting and challenging development environment. Enjoying every facet of the tech industry since making my change, coding and development has brought the best out of me, coupling my career experience with the opportunities to create new and exciting websites, apps and programs. Seeing an idea from planning to completion brings a sense of accomplishment and joy that I hope to achieve in a positively cultured organisation. 
 
 
 ## 🌐 Socials:
