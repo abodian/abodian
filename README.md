@@ -18,6 +18,7 @@ Having graduated from the highly selective and intensive bootcamp at Makers Acad
 | Name                         | Description                  | Tech/tools                                       |
 | ---------------------------- | ---------------------------- | ------------------------------------------------ |
 | [Tube Tracks](https://github.com/abodian/tube-tracks)              | Data Sonification of Live Tfl Tube Arrival Data | Javascript, React, Tone.js, Express, Cypress, Jest, REST |
+| [JB Surgical Service](https://github.com/abodian/jb-surgical-services-website) (Freelance Project) | A freelance project for a Vet Referral Business | React, CSS, SCSS |
 | [Acebook](https://github.com/abodian/acebook-team-water)                  | A social media type learning project      | MongoDB, React, Node.js, Express, Cypress, Jest  |
 | [MakersBNB](https://github.com/abodian/makersbnb-ruby-seed)                | A simple room rental web app | Ruby, Sinatra, Rspec                             |
 | **Tech Tests**               | Code quality tech tests      | Various                                          |
