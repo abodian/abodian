@@ -1,4 +1,4 @@
-<img src="https://iili.io/Hhz19Wl.png" alt="image" style="height: 100%; width: 100%;">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bruno+Ace+SC&weight=900&size=40&duration=2000&pause=200&color=71F79A&center=true&width=1200&height=200&lines=Alex+Bodian;Full+Stack+Software+Engineer;Integration+Engineer;Thank+you+for+visiting!)](https://git.io/typing-svg)
 
 
 ## 💫 About Me:
