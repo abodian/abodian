@@ -17,6 +17,8 @@ Having graduated from the highly selective and intensive bootcamp at Makers Acad
 
 | Name                         | Description                  | Tech/tools                                       |
 | ---------------------------- | ---------------------------- | ------------------------------------------------ |
+| [Whisper Journal](https://github.com/abodian/whisper-journal)              | WhisperJournal is a voice-based diary app that records users' daily reflections, converts their spoken words into text, and processes the 
+entries using an AI-powered language model for interactive and personalised conversations. | React Native, Expo, Firebase, Express, Node.js, OpenAI, Sentiment Libraries, MongoDb Atlas |
 | [Tube Tracks](https://github.com/abodian/tube-tracks)              | Data Sonification of Live Tfl Tube Arrival Data | Javascript, React, Tone.js, Express, Cypress, Jest, REST |
 | [JB Surgical Service](https://github.com/abodian/jb-surgical-services-website) (Freelance Project) | A freelance project for a Vet Referral Business | React, CSS, SCSS |
 | [Acebook](https://github.com/abodian/acebook-team-water)                  | A social media type learning project      | MongoDB, React, Node.js, Express, Cypress, Jest  |
